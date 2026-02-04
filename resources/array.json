@@ -1,0 +1,23 @@
+array = [
+{
+  "container":"olympics",
+  "folder_name":"athletes",
+  "file_name":"athletes.csv"
+},
+{
+  "container":"olympics",
+  "folder_name":"coaches",
+  "file_name":"coaches.csv"
+},
+{
+  "container":"olympics",
+  "folder_name":"events",
+  "file_name":"events.csv"
+},
+{
+  "container":"olympics",
+  "folder_name":"nocs",
+  "file_name":"nocs.csv"
+}
+]
+  
